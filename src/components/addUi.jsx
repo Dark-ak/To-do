@@ -4,7 +4,7 @@ import api from "../services/api"
 
 const Modal = ({ isVisible, set, tasks, dataSet }) => {
     const [newTask, setNewTask] = useState('');
-    const [newImp, setNewImp] = useState('');
+    const [newImp, setNewImp] = useState('Yes');
 
     const task = (e) => {
         setNewTask(e.target.value)
