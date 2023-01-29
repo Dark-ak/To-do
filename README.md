@@ -12,7 +12,7 @@ This is a To-Do app
 1. Clone the repository  
 
 ```bash
-  git clone https://github.com/Dark-ak/E-commerce.git  
+  git clone https://github.com/Dark-ak/To-do.git  
 ```
 2. Navigate to project repository  
 ```bash 
